@@ -6,10 +6,10 @@
 		"mac": "2.206",
 		"ios": "2.206"
 	},
-	"id": "user95401.gemetry_trash",
-	"name": "Gemetry Trash",
-	"version": "v2.0.0",
-	"developer": "user95401",
+	"id": "asteroid.astpsremaster",
+	"name": "ASTeroidGDPS Remastered",
+	"version": "v1.0.0",
+	"developer": "ASTeroid",
 	"description": "",
 	"early-load": true,
 	"resources": {
